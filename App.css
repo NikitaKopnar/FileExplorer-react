@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  text-align: left;
+  padding-left: 20px;
+  cursor: pointer;
+}
+.icon {
+  width: 10px;
+  padding-right: 20px;
+}
